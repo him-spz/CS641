@@ -1,0 +1,25 @@
+    CLUE:
+            As you move closer to the boulder, you realize that it has
+            something written on it!
+
+            Wiping the dust from the boulder with your hand - and getting
+            your hand very dirty in the process - you see strange symbols
+            on the boulder -- it appears like some code:
+
+
+
+                ... . -.-. ..- .-. .. - -.--
+
+
+
+            The spirit of Cave Man is the keeper of the chamber. 
+            To navigate through the chamber, you must pay respect 
+            to him first. When you bow down, you hear a faint voice-
+            "You have been blessed, my child. Keep in mind that 
+            you must always believe in yourself and PLAY FAIR".
+
+    CIPHERTEXT:
+            TR XYCB MH AFC MUVY EOHPTCS, AFCSS TE QCSI NTYIMS TNA AFCSC. 
+            EMRBH XAA VAFR MIUCQPUH "LMRL_CCETOT" FN HM AKUXAHK. OTA WANA
+            OTXT FFU EISCWNAF HME BFU MCVA UGTOTRE. BM HYLF IFU UVTY ANE 
+            HBSEI QYOQM OUVSF AM EAFTE PYHYS XNSKE IFUSC.

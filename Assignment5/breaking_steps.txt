@@ -1,0 +1,36 @@
+gsgqljmflhjringf ikkkisisgohllflr
+
+#1
+mi = gs
+li = ik
+
+#2
+mimm = gsgq
+lill = ikkk
+
+#3
+mimmmg = gsgqlj
+lillif = ikkkis
+
+#4
+mimmmgmh = gsgqljmf
+lillifif = ikkkisis
+
+#5
+mimmmgmhmn = gsgqljmflh
+lillififif = ikkkisisgo
+
+#6
+mimmmgmhmnmg = gsgqljmflhjr
+lillifififif = ikkkisisgohl
+
+#7
+mimmmgmhmnmglt = gsgqljmflhjrin
+lillififififif = ikkkisisgohllf
+
+#8
+mimmmgmhmnmgltlr = gsgqljmflhjringf
+lillifififififif = ikkkisisgohllflr
+
+Therefore plaintext:
+	mimmmgmhmnmgltlrlillifififififif
